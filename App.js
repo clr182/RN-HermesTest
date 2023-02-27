@@ -84,7 +84,9 @@ const App: () => Node = () => {
 };
 
 function handledError() {
-  Bugsnag.notify(new Error('Test error'))
+  for (let i =0; i < 301; i++){
+    Bugsnag.notify(new Error('Test error'))
+  }
 }
 
 

@@ -22,6 +22,6 @@
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
       </activity>
-      <meta-data android:name="com.bugsnag.android.API_KEY" android:value="d124c09d76146bf17c469680ecb27923" />
+      <meta-data android:name="com.bugsnag.android.API_KEY" android:value="68542c4a86d583f10b9292d74b5daeef" />
     </application>
 </manifest>
